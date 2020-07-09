@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm mooeypoo and I love open source software
+
+I do random things and have a lot of really weird repos, some of which I wrote a long time ago, either for experimentation, learning, or some open source gadgets and plugins for open source tools.
 
 <!--
 **mooeypoo/mooeypoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
